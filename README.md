@@ -26,7 +26,7 @@
 |001|[English_Learning](https://github.com/SuperTao/English_Learning)|英语学习|
 |002|[LinuxSystemProgram](https://github.com/SuperTao/LinuxSystemProgram)|Linux系统编程|
 |003|[Hon_Note](https://github.com/SuperTao/Hon_Note)|Hon_Note|
-|004|[interview](https://github.com/SuperTao/job_interview)|note of job interview|
+|004|[interview](https://github.com/SuperTao/job_interview)|note of interview|
 <!--
 **SuperTao/SuperTao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
