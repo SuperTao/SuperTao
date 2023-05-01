@@ -10,7 +10,7 @@
 |005|[LinuxDTS](https://github.com/SuperTao/LinuxDTS)|Linux设备树, gpio, i2c, spi, uart|
 |006|[AndroidAudio](https://github.com/SuperTao/AndroidAudio)|高通平台音频总结, ALSA, DTS, HAL, speaker, mic|
 |007|[Makefile_Learning](https://github.com/SuperTao/Makefile_Learning)|GNU make|
-|008|[English_Learning](https://github.com/SuperTao/English_Learning)|(英语学习)|
+|008|[English_Learning](https://github.com/SuperTao/English_Learning)|英语学习|
 |009|[qualcom_platform](https://github.com/SuperTao/qualcomm_platform_analyse)|高通平台启动分析|
 |010|[RaspberryPi](https://github.com/SuperTao/RaspberryPi)|树莓派|
 |011|[SerialPort](https://github.com/SuperTao/SerialPortW)|C#串口工具|
