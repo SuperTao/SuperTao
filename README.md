@@ -5,7 +5,7 @@
   - [IEEE 802.11](https://ieeexplore.ieee.org/Xplore/home.jsp)
   - [WiFi信道列表](https://zh.wikipedia.org/wiki/%E6%97%A0%E7%BA%BF%E5%B1%80%E5%9F%9F%E7%BD%91%E4%BF%A1%E9%81%93%E5%88%97%E8%A1%A8)
   - [WiFi国家码](https://zh.wikipedia.org/wiki/%E5%9C%8B%E5%AE%B6%E5%9C%B0%E5%8D%80%E4%BB%A3%E7%A2%BC)
-- [蓝牙官网](https://www.bluetooth.com/)
+- [Bluetooth官网](https://www.bluetooth.com/)
 - [GNU make](https://www.gnu.org/software/make/)
 # Public Repositories
 |Index|Name|Description|
