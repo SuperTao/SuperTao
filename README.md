@@ -7,20 +7,26 @@
   - [WiFi国家码](https://zh.wikipedia.org/wiki/%E5%9C%8B%E5%AE%B6%E5%9C%B0%E5%8D%80%E4%BB%A3%E7%A2%BC)
 - [蓝牙官网](https://www.bluetooth.com/)
 - [GNU make](https://www.gnu.org/software/make/)
-# Repositories
+# Public Repositories
 |Index|Name|Description|
-|:-----|:----|:--------|
+|:---|:---|:---|
 |001|[WiFi](https://github.com/SuperTao/WiFi)|基于Android对802.11协议进行分析|
 |002|[Bluetooth](https://github.com/SuperTao/Bluetooth)|经典蓝牙调试|
-|003|[BLE](https://github.com/SuperTao/Bluetooth/blob/master/doc/BLE_analyse.md)|低功耗蓝牙总结, TI, Onsemi, Telink|
+|003|[BLE](https://github.com/SuperTao/Bluetooth/blob/master/doc/BLE_analyse.md)|低功耗蓝牙总结, Ti, Onsemi, Telink低功耗蓝牙开发记录|
 |004|[LinuxDriver](https://github.com/SuperTao/LinuxDriver)|Linux驱动,字符,总线,中断|
-|005|[LinuxDTS](https://github.com/SuperTao/LinuxDTS)|Linux设备树, gpio, i2c, spi, uart|
-|006|[AndroidAudio](https://github.com/SuperTao/AndroidAudio)|高通平台音频总结, ALSA, DTS, HAL, speaker, mic|
-|007|[Makefile_Learning](https://github.com/SuperTao/Makefile_Learning)|GNU make|
-|008|[English_Learning](https://github.com/SuperTao/English_Learning)|英语学习|
-|009|[qualcom_platform](https://github.com/SuperTao/qualcomm_platform_analyse)|高通平台启动分析|
-|010|[RaspberryPi](https://github.com/SuperTao/RaspberryPi)|树莓派|
-|011|[SerialPort](https://github.com/SuperTao/SerialPortW)|C#串口工具|
+|005|[LinuxDTS](https://github.com/SuperTao/LinuxDTS)|Linux设备树, GPIO, I2C, SPI, UART|
+|006|[qualcom_platform](https://github.com/SuperTao/qualcomm_platform_analyse)|高通平台启动分析|
+|007|[AndroidAudio](https://github.com/SuperTao/AndroidAudio)|高通平台音频总结, ALSA, DTS, HAL, AudioPolilcy, tinymix, mix_paths, Speaker, Mic|
+|008|[RaspberryPi](https://github.com/SuperTao/RaspberryPi)|树莓派|
+|009|[SerialPort](https://github.com/SuperTao/SerialPortW)|C#串口工具|
+|010|[Makefile_Learning](https://github.com/SuperTao/Makefile_Learning)|GNU make|
+# private Repositories
+|Index|Name|Description|
+|:---|:---|:---|
+|001|[English_Learning](https://github.com/SuperTao/English_Learning)|英语学习|
+|002|[LinuxSystemProgram](https://github.com/SuperTao/LinuxSystemProgram)|Linux系统编程|
+|003|[Hon_Note](https://github.com/SuperTao/Hon_Note)|Hon_Note|
+|004|[interview](https://github.com/SuperTao/job_interview)|note of job interview|
 <!--
 **SuperTao/SuperTao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
