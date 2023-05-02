@@ -20,6 +20,8 @@
 |008|[RaspberryPi](https://github.com/SuperTao/RaspberryPi)|树莓派|
 |009|[SerialPort](https://github.com/SuperTao/SerialPortW)|C#串口工具|
 |010|[Makefile_Learning](https://github.com/SuperTao/Makefile_Learning)|GNU make|
+|011|[USB_Learning](https://github.com/SuperTao/USB_CY7C68031A)|USB学习|
+|012|[GPIO_PYTHON](https://github.com/SuperTao/GpioSql)|python操作gpio和数据库|
 # private Repositories
 |Index|Name|Description|
 |:---|:---|:---|
