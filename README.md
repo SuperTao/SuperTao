@@ -22,7 +22,7 @@
 |010|[Makefile_Learning](https://github.com/SuperTao/Makefile_Learning)|GNU make|
 |011|[USB_Learning](https://github.com/SuperTao/USB_CY7C68031A)|USB学习|
 |012|[GPIO_PYTHON](https://github.com/SuperTao/GpioSql)|python操作gpio和数据库|
-# private Repositories
+# Private Repositories
 |Index|Name|Description|
 |:---|:---|:---|
 |001|[English_Learning](https://github.com/SuperTao/English_Learning)|英语学习|
