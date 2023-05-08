@@ -19,7 +19,7 @@
 |007|[AndroidAudio](https://github.com/SuperTao/AndroidAudio)|高通平台音频总结, ALSA, DTS, HAL, AudioPolilcy, tinymix, mix_paths, Speaker, Mic|
 |008|[RaspberryPi](https://github.com/SuperTao/RaspberryPi)|树莓派|
 |009|[SerialPort](https://github.com/SuperTao/SerialPortW)|C#串口工具|
-|010|[Makefile_Learning](https://github.com/SuperTao/Makefile_Learning)|GNU make|
+|010|[Makefile_Learning](https://github.com/SuperTao/Makefile_Learning)|GNU make, Automake|
 |011|[USB_Learning](https://github.com/SuperTao/USB_CY7C68031A)|USB学习|
 |012|[GPIO_PYTHON](https://github.com/SuperTao/GpioSql)|python操作gpio和数据库|
 # Private Repositories
